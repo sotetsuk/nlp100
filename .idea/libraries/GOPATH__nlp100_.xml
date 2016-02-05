@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;nlp100&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/gopath/src/github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$USER_HOME$/gopath/src/github.com/kr/pty/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/BurntSushi/toml/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/kballard/go-shellquote/.git" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/BurntSushi/toml/_examples" />
+      <root url="file://$USER_HOME$/gopath/src/github.com/ThomasRooney/gexpect/.git" />
+    </excluded>
+  </library>
+</component>
